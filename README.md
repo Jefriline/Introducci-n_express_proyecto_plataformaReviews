@@ -2,10 +2,10 @@
 ## Requisitos
 ### Tener instalado nodejs v20 o superior.
 ## Instrucciones
-## Ejecute:
-- npm i
-- npx tsc -w
-- node ./dist/app
+
+### Instale dependecias:
+- npm i 
+
 ### Cree un archivo de variables de entorno .env en él ponga las siguientes variables
 - **DB_HOST=** <tu_host>
 - **DB_DATABASE=** plataformaReviews
@@ -44,3 +44,7 @@ CREATE TABLE reviews (
     rating INT(2) NOT NULL ,
     comment VARCHAR(500),
 );```
+
+## Para ejecutar:
+- npx tsc -w
+- node ./dist/app
