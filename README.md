@@ -43,8 +43,9 @@ CREATE TABLE reviews (
     id INT AUTO_INCREMENT PRIMARY KEY,
     rating INT(2) NOT NULL ,
     comment VARCHAR(500),
-);```
+);
+```
 
-## Para ejecutar:
+### Para ejecutar:
 - npx tsc -w
 - node ./dist/app
