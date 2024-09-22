@@ -2,7 +2,10 @@
 ## Requisitos
 ### Tener instalado nodejs v20 o superior.
 ## Instrucciones
-
+## Ejecute:
+- npm i
+- npx tsc -w
+- node ./dist/app
 ### Cree un archivo de variables de entorno .env en él ponga las siguientes variables
 - **DB_HOST=** <tu_host>
 - **DB_DATABASE=** plataformaReviews
