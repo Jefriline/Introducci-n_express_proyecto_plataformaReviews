@@ -1,4 +1,4 @@
-# Tienda de Tecnología
+# PLataforma-Reviews
 ## Requisitos
 ### Tener instalado nodejs v20 o superior.
 ## Instrucciones
