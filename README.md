@@ -12,7 +12,6 @@
 - **DB_USERNAME=** <tu_usuario>
 - **DB_PASSWORD=** <tu_contraseña>
 - **KEY_TOKEN=** <tu_contraseña_token>
-### Ejecute npm install para instalar los paquetes necesarios para el proyecto.
 ### Abra una terminal y ejecute tsc -w para el modo observador de Typescript
 ### Abra otra terminal y ejecute node ./dist/app para ejecutar el servidor
 
